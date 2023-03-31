@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="title_layout_height">0dp</dimen>
+    <dimen name="title_layout_marginTop">50dp</dimen>
+    <dimen name="title_textSize">25sp</dimen>
+    <dimen name="count_layout_marginTop">50dp</dimen>
+    <dimen name="count_textSize">50sp</dimen>
+    <dimen name="image_layout_width">0dp</dimen>
+    <dimen name="image_layout_height">100dp</dimen>
+    <dimen name="image_marginStart">75dp</dimen>
+    <dimen name="top_images_marginTop">75dp</dimen>
+    <dimen name="image_one_marginEnd">200dp</dimen>
+    <dimen name="image_marginEnd">75dp</dimen>
+    <dimen name="bottom_images_marginTop">50dp</dimen>
+    <dimen name="textView_marginStart">125dp</dimen>
+    <dimen name="textView_marginTop">10dp</dimen>
+    <dimen name="textView_marginEnd">125dp</dimen>
+</resources>
