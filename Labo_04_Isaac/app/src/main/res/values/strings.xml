@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Labo_04</string>
+    <string name="share_text">Name: %1$s \nEmail %2$s \nPhone: %3$s</string>
+    <string name="ex_email_text">alguien@gmail.com</string>
+</resources>
